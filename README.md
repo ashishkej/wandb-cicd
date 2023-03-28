@@ -1,1 +1,2 @@
 # wandb-cicd
+pass case
